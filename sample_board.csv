@@ -23,3 +23,7 @@ date,time,league,home,away,market,selection,quoted_odds,closing_odds,risk_label,
 2025-02-16,16:15,Championship,Sunderland,Coventry,Over/Under 2.5,Over 2.5,1.92,1.96,Very High,L
 2025-02-17,20:00,Ligue 1,Marseille,Reims,Match Result,Marseille,1.48,1.44,Low,W
 2025-02-18,19:45,Premier League,Chelsea,Crystal Palace,Asian Handicap,Chelsea -1,1.82,1.79,High,W
+2025-02-19,20:00,Premier League,Nottingham Forest,Fulham,Match Result,Nottingham Forest,2.05,2.10,Medium,W
+2025-02-20,19:45,Serie A,Lazio,Napoli,Both Teams To Score,Yes,1.88,1.91,High,L
+2025-02-21,20:00,Ligue 1,Lyon,Paris Saint-Germain,Over/Under 2.5,Over 2.5,1.72,1.68,Medium,W
+2025-02-22,17:30,Bundesliga,RB Leipzig,Heidenheim,Asian Handicap,RB Leipzig -1,1.85,1.82,High,W
